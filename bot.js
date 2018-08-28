@@ -2776,4 +2776,4 @@ client.on('messageReactionRemove', (reaction, user) => {
 
 
 
-client.login('NDcwMjQyOTE0MDIzMjQzNzg2.Dk9z5Q.mnju-7_m2Yr3_9iyzJa47cZws1A');
+client.login('NDg0MDc2MzIyODk3Nzg4OTI4.Dmdw9g.SNodl0c2wU8FrFg57rg24K57-FI');
